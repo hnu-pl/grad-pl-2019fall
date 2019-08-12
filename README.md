@@ -6,7 +6,7 @@
 |-----|-------------|--------|
 | Tue | 19:00-21:50 | 90327  |
 
-# Textbook
+## Textbook
 * 주교재
     - [Practical Foundations for Programming Languages (2nd ed.)](https://www.cs.cmu.edu/~rwh/pfpl/) by Rober Harper, Cambridge University Press, 2016
 * 부교재
