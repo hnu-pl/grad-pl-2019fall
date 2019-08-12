@@ -1,5 +1,5 @@
 # Programming Languages course @ HNU CE grad school
-2019년 2학기 한남대학교 컴퓨터공학과 **프로그래밍언어의미론** 과목 홈페이지입니다.
+2019년 2학기 한남대학교 컴퓨터공학과 대학원 **프로그래밍언어**(의미론) 과목 홈페이지입니다.
 
 # Textbook
 * 주교재
