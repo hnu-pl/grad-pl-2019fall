@@ -6,6 +6,8 @@
 |-----|-------------|--------|
 | Tue | 19:00-21:50 | 90327  |
 
+<!-- [Hi-Class 과목 페이지로 바로가기](https://hiclass.hannam.ac.kr/courses/9273) -->
+
 ## Textbook
 * 주교재
     - [Practical Foundations for Programming Languages (2nd ed.)](https://www.cs.cmu.edu/~rwh/pfpl/) by Rober Harper, Cambridge University Press, 2016
