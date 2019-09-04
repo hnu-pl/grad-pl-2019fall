@@ -25,8 +25,11 @@
  * Church encodings (boolean, natural numbers)
  * 참고도서 TAPL (Part I - Chapter 5)
 
-###### 0910 System F
+###### 0910 simply-typed lambda calculus
 TODO
 
-###### 0917 System Fω
+###### 0917 System F
+TODO
+
+###### 0921 System Fω
 TODO
