@@ -16,3 +16,17 @@
 * 참고도서
     - [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/) by Benjamin C. Pirce, The MIT Press, 2002
     - [Homotopy Type Theory](https://homotopytypetheory.org/book/) by the Univalent Foundations Program
+
+## Course topics and memo
+
+###### 0903 untyped lambda calculus
+ * call-by-value, call-by-name, call-by-need
+ * https://crypto.stanford.edu/~blynn/lambda/
+ * Church encodings (boolean, natural numbers)
+
+###### 0910 System F
+TODO
+
+###### 0917 System Fω
+TODO
+ 
