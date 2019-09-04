@@ -23,7 +23,7 @@
  * call-by-value, call-by-name, call-by-need
  * https://crypto.stanford.edu/~blynn/lambda/
  * Church encodings (boolean, natural numbers)
- * 참고도서 TAPL (Part I)
+ * 참고도서 TAPL (Part I - Chapter 5)
 
 ###### 0910 System F
 TODO
