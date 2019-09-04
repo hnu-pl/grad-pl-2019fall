@@ -27,9 +27,20 @@
 
 ###### 0910 simply-typed lambda calculus
 TODO
+ * 참고도서 TAPL (Part II - Chapter 9)
+ * ...
 
-###### 0917 System F
+###### 0917 recursion and recursive types
 TODO
+ * fixpoints in untyped lambda calculus 
+ * ...
 
+###### 0921 System F
+TODO
+ * 참고도서 TAPL (Part V)
+ * ...
+ 
 ###### 0921 System Fω
 TODO
+ * 참고도서 TAPL (Part VI)
+ * ...
