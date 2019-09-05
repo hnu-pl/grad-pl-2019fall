@@ -35,12 +35,12 @@ TODO
  * fixpoints in untyped lambda calculus 
  * ...
 
-##### 0921 System F
+##### 0924 System F
 TODO
  * 참고도서 TAPL (Part V)
  * ...
  
-##### 0928 System Fω
+##### 1001 System Fω
 TODO
  * 참고도서 TAPL (Part VI)
  * ...
