@@ -19,28 +19,28 @@
 
 ## Course topics and memo
 
-###### 0903 untyped lambda calculus
+##### 0903 untyped lambda calculus
  * call-by-value, call-by-name, call-by-need
  * https://crypto.stanford.edu/~blynn/lambda/
  * Church encodings (boolean, natural numbers)
  * 참고도서 TAPL (Part I - Chapter 5)
 
-###### 0910 simply-typed lambda calculus
+##### 0910 simply-typed lambda calculus
 TODO
  * 참고도서 TAPL (Part II - Chapter 9)
  * ...
 
-###### 0917 recursion and recursive types
+##### 0917 recursion and recursive types
 TODO
  * fixpoints in untyped lambda calculus 
  * ...
 
-###### 0921 System F
+##### 0921 System F
 TODO
  * 참고도서 TAPL (Part V)
  * ...
  
-###### 0921 System Fω
+##### 0921 System Fω
 TODO
  * 참고도서 TAPL (Part VI)
  * ...
