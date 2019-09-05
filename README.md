@@ -40,7 +40,7 @@ TODO
  * 참고도서 TAPL (Part V)
  * ...
  
-##### 0921 System Fω
+##### 0928 System Fω
 TODO
  * 참고도서 TAPL (Part VI)
  * ...
