@@ -21,11 +21,12 @@
 
 ##### 0903 untyped lambda calculus
  * call-by-value, call-by-name, call-by-need
-   * OCaml은 call-by-value이고 Haskell은 call-by-need인데 차이점을 보여주는 예제
-     * https://try.ocamlpro.com/ 에서 `let rec loop()=loop() in (fun x -> 3) (loop())` 실행해 보라
-     * https://tryhaskell.org/ 에서 `let loop()=loop() in (\x -> 3) (loop())` 실행해 보라
+     - OCaml은 call-by-value이고 Haskell은 call-by-need인데 차이점을 보여주는 예제
+         * https://try.ocamlpro.com/ 에서 `let rec loop()=loop() in (fun x -> 3) (loop())` 실행해 보라
+         * https://tryhaskell.org/ 에서 `let loop()=loop() in (\x -> 3) (loop())` 실행해 보라
  * https://crypto.stanford.edu/~blynn/lambda/
  * Church encodings (boolean, natural numbers)
+     - 기본 상수(constant)를 추가하지 않고 람다식으로 구성된 함수만으로 계산이 가능함을 보여준다
  * 참고도서 TAPL (Part I - Chapter 5)
 
 ##### 0910 simply-typed lambda calculus
