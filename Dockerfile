@@ -14,7 +14,7 @@ RUN mkdir /home/$NB_USER/hsnote
 COPY hsnote/*.ipynb /home/$NB_USER/hsnote/
 RUN chown --recursive $NB_UID:users /home/$NB_USER/hsnote
 RUN mkdir /home/$NB_USER/hsnote/pih2ed
-COPY pih2ed/*.ipynb /home/$NB_USER/hsnote/pih2ed/
+COPY pih2ed/*.ipynb /home/$NB_USER/pih2ed/
 RUN chown --recursive $NB_UID:users /home/$NB_USER/pih2ed
 
 USER $NB_UID
