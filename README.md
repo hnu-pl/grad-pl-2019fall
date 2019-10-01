@@ -19,6 +19,7 @@
 * 참고도서
     - [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/) by Benjamin C. Pirce, The MIT Press, 2002
     - [Homotopy Type Theory](https://homotopytypetheory.org/book/) by the Univalent Foundations Program
+    - [Programming Language Foundations in Agda](https://plfa.github.io/)
 
 ## Course topics and memo
 
@@ -46,8 +47,11 @@
 
 ##### 0924 
  * call-by-value, call-by-need: hsnote 디렉토리 노트북 파일들
- 
-##### 1001 타입 보존 정리 관련해서
+ * 타입 보존 정리 및 조심하지 않으면 실제 프로그래밍 언어에서 잘 성립되지 않을 수 있는 사례들 
+
+##### 1001
+타입 보존 정리 관련해서 구체적인 예
  * Scala에서 covariant, contravariant 제너릭 인자
    https://www.journaldev.com/9585/scala-variances-covariant-invariant-contravariant
  * ML계열 언어에서 value restriction으로 polymorphism 제한
+참고도서 PLFA 실습
