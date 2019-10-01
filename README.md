@@ -40,16 +40,14 @@
  * 참고도서 TAPL (Part II - Chapter 9)
 
 ##### 0917 recursion and recursive types
-TODO
  * fixpoints in untyped lambda calculus 
- * ...
 
-##### 0924 System F
-TODO
+##### 0924 System F, System Fω
  * 참고도서 TAPL (Part V)
- * ...
- 
-##### 1001 System Fω
-TODO
  * 참고도서 TAPL (Part VI)
- * ...
+ * call-by-value, call-by-need: hsnote 디렉토리 노트북 파일들
+ 
+##### 1001 타입 보존 정리 관련해서
+ * Scala에서 covariant, contravariant 제너릭 인자
+   https://www.journaldev.com/9585/scala-variances-covariant-invariant-contravariant
+ * ML계열 언어에서 value restriction으로 polymorphism 제한
