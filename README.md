@@ -39,12 +39,12 @@
      - 이에 대비되는 Curry 스타일의 STLC도 있는데 함수정의식이 `(\x.e)`로 타입없는 람다계산법과 같다
  * 참고도서 TAPL (Part II - Chapter 9)
 
-##### 0917 recursion and recursive types
+##### 0917 recursion and recursive types, System F, System Fω
  * fixpoints in untyped lambda calculus 
-
-##### 0924 System F, System Fω
  * 참고도서 TAPL (Part V)
  * 참고도서 TAPL (Part VI)
+
+##### 0924 
  * call-by-value, call-by-need: hsnote 디렉토리 노트북 파일들
  
 ##### 1001 타입 보존 정리 관련해서
