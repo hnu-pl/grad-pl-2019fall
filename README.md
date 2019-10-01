@@ -47,6 +47,7 @@
 
 ##### 0924 
  * call-by-value, call-by-need: hsnote 디렉토리 노트북 파일들
+ * Curry-Howard correspondence의 개념과 간단한 예
  * 타입 보존 정리 및 조심하지 않으면 실제 프로그래밍 언어에서 잘 성립되지 않을 수 있는 사례들 
 
 ##### 1001
