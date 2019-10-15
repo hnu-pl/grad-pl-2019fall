@@ -56,3 +56,13 @@
    https://www.journaldev.com/9585/scala-variances-covariant-invariant-contravariant
  * ML계열 언어에서 value restriction으로 polymorphism 제한
 참고도서 PLFA 실습
+
+#### 1008
+* DSL for the Uninitiated라는 ACM Comm. 기사
+* eDSL에 활용되기도 하는 HOAS
+
+#### 1015
+* 패턴매칭과 일치화
+* 타입 유추 과정에서 만들어지는 일치화 방정식을 Prolog를 이용해 자동으로 풀이 
+* Prolog의 특징과 타입 규칙을 Prolog로 만들어 보기
+
