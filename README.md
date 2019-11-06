@@ -73,7 +73,7 @@
  * 일치화(Unification) 알고리듬 작성
 
 #### 1105
- * 메타프로그래밍 중에서 MetaML류의 Muilti-Staged Programming의 개념과 고전적인 동기유발 예제인 power 함수에 대해 알아봄
+ * 메타프로그래밍 중에서 MetaML류의 Multi-Staged Programming의 개념과 고전적인 동기유발 예제인 power 함수에 대해 알아봄
  * 프로그래밍에 활용되는 Monad라는 개념
 
 #### 1112
